@@ -1,0 +1,5 @@
+EXEC - 16/03/2017 20:25:08 - 0 - copy "E:\CA\SM\site\mods\wsp.altertbl" "E:\CA\tools\promoter\2017-03-16-2021\nxroot\site\mods\wsp.altertbl" /y
+EXEC - 16/03/2017 20:25:08 - 0 - copy "E:\CA\SM\site\mods\wsp.altercol" "E:\CA\tools\promoter\2017-03-16-2021\nxroot\site\mods\wsp.altercol" /y
+EXEC - 16/03/2017 20:25:08 - 0 - copy "E:\CA\SM\site\mods\wsp_index.sch" "E:\CA\tools\promoter\2017-03-16-2021\nxroot\site\mods\wsp_index.sch" /y
+EXEC - 16/03/2017 20:25:08 - 0 - copy "E:\CA\SM\site\mods\wsp_schema.sch" "E:\CA\tools\promoter\2017-03-16-2021\nxroot\site\mods\wsp_schema.sch" /y
+EXEC - 16/03/2017 20:25:08 - 0 - copy "E:\CA\SM\site\mods\majic\wsp.mods" "E:\CA\tools\promoter\2017-03-16-2021\nxroot\site\mods\majic\wsp.mods" /y
